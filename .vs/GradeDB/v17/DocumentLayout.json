@@ -1,0 +1,472 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{328FF406-2E8F-4920-9D2B-EF37F7030CB9}|GradeDB\\GradeDB.csproj|d:\\\u0431\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\gradedb\\gradedb\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328FF406-2E8F-4920-9D2B-EF37F7030CB9}|GradeDB\\GradeDB.csproj|solutionrelative:gradedb\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328FF406-2E8F-4920-9D2B-EF37F7030CB9}|GradeDB\\GradeDB.csproj|D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\gradedb\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{328FF406-2E8F-4920-9D2B-EF37F7030CB9}|GradeDB\\GradeDB.csproj|solutionrelative:gradedb\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\GradeDB\\bin\\Debug\\transform.xslt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GradeDB\\bin\\Debug\\transform.xslt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328FF406-2E8F-4920-9D2B-EF37F7030CB9}|GradeDB\\GradeDB.csproj|D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\gradedb\\transform.xslt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{328FF406-2E8F-4920-9D2B-EF37F7030CB9}|GradeDB\\GradeDB.csproj|solutionrelative:gradedb\\transform.xslt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328FF406-2E8F-4920-9D2B-EF37F7030CB9}|GradeDB\\GradeDB.csproj|D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\gradedb\\forms\\dml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328FF406-2E8F-4920-9D2B-EF37F7030CB9}|GradeDB\\GradeDB.csproj|solutionrelative:gradedb\\forms\\dml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328FF406-2E8F-4920-9D2B-EF37F7030CB9}|GradeDB\\GradeDB.csproj|D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\gradedb\\forms\\dml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{328FF406-2E8F-4920-9D2B-EF37F7030CB9}|GradeDB\\GradeDB.csproj|solutionrelative:gradedb\\forms\\dml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328FF406-2E8F-4920-9D2B-EF37F7030CB9}|GradeDB\\GradeDB.csproj|D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\gradedb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328FF406-2E8F-4920-9D2B-EF37F7030CB9}|GradeDB\\GradeDB.csproj|solutionrelative:gradedb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328FF406-2E8F-4920-9D2B-EF37F7030CB9}|GradeDB\\GradeDB.csproj|D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\gradedb\\forms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328FF406-2E8F-4920-9D2B-EF37F7030CB9}|GradeDB\\GradeDB.csproj|solutionrelative:gradedb\\forms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328FF406-2E8F-4920-9D2B-EF37F7030CB9}|GradeDB\\GradeDB.csproj|D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\gradedb\\forms\\xml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{328FF406-2E8F-4920-9D2B-EF37F7030CB9}|GradeDB\\GradeDB.csproj|solutionrelative:gradedb\\forms\\xml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328FF406-2E8F-4920-9D2B-EF37F7030CB9}|GradeDB\\GradeDB.csproj|D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\gradedb\\forms\\oneentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328FF406-2E8F-4920-9D2B-EF37F7030CB9}|GradeDB\\GradeDB.csproj|solutionrelative:gradedb\\forms\\oneentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328FF406-2E8F-4920-9D2B-EF37F7030CB9}|GradeDB\\GradeDB.csproj|D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\gradedb\\forms\\oneentry.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328FF406-2E8F-4920-9D2B-EF37F7030CB9}|GradeDB\\GradeDB.csproj|solutionrelative:gradedb\\forms\\oneentry.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328FF406-2E8F-4920-9D2B-EF37F7030CB9}|GradeDB\\GradeDB.csproj|D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\gradedb\\forms\\oneentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{328FF406-2E8F-4920-9D2B-EF37F7030CB9}|GradeDB\\GradeDB.csproj|solutionrelative:gradedb\\forms\\oneentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328FF406-2E8F-4920-9D2B-EF37F7030CB9}|GradeDB\\GradeDB.csproj|D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\gradedb\\forms\\svazbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328FF406-2E8F-4920-9D2B-EF37F7030CB9}|GradeDB\\GradeDB.csproj|solutionrelative:gradedb\\forms\\svazbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328FF406-2E8F-4920-9D2B-EF37F7030CB9}|GradeDB\\GradeDB.csproj|D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\gradedb\\forms\\svazbd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328FF406-2E8F-4920-9D2B-EF37F7030CB9}|GradeDB\\GradeDB.csproj|solutionrelative:gradedb\\forms\\svazbd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328FF406-2E8F-4920-9D2B-EF37F7030CB9}|GradeDB\\GradeDB.csproj|D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\gradedb\\forms\\svazbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{328FF406-2E8F-4920-9D2B-EF37F7030CB9}|GradeDB\\GradeDB.csproj|solutionrelative:gradedb\\forms\\svazbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328FF406-2E8F-4920-9D2B-EF37F7030CB9}|GradeDB\\GradeDB.csproj|D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\gradedb\\forms\\userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328FF406-2E8F-4920-9D2B-EF37F7030CB9}|GradeDB\\GradeDB.csproj|solutionrelative:gradedb\\forms\\userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328FF406-2E8F-4920-9D2B-EF37F7030CB9}|GradeDB\\GradeDB.csproj|D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\gradedb\\forms\\userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{328FF406-2E8F-4920-9D2B-EF37F7030CB9}|GradeDB\\GradeDB.csproj|solutionrelative:gradedb\\forms\\userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328FF406-2E8F-4920-9D2B-EF37F7030CB9}|GradeDB\\GradeDB.csproj|D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\gradedb\\forms\\userinterface.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328FF406-2E8F-4920-9D2B-EF37F7030CB9}|GradeDB\\GradeDB.csproj|solutionrelative:gradedb\\forms\\userinterface.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328FF406-2E8F-4920-9D2B-EF37F7030CB9}|GradeDB\\GradeDB.csproj|D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\gradedb\\syncdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328FF406-2E8F-4920-9D2B-EF37F7030CB9}|GradeDB\\GradeDB.csproj|solutionrelative:gradedb\\syncdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328FF406-2E8F-4920-9D2B-EF37F7030CB9}|GradeDB\\GradeDB.csproj|D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\gradedb\\syncdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{328FF406-2E8F-4920-9D2B-EF37F7030CB9}|GradeDB\\GradeDB.csproj|solutionrelative:gradedb\\syncdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328FF406-2E8F-4920-9D2B-EF37F7030CB9}|GradeDB\\GradeDB.csproj|D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\gradedb\\syncdatabase.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328FF406-2E8F-4920-9D2B-EF37F7030CB9}|GradeDB\\GradeDB.csproj|solutionrelative:gradedb\\syncdatabase.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328FF406-2E8F-4920-9D2B-EF37F7030CB9}|GradeDB\\GradeDB.csproj|D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\gradedb\\forms\\dml.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328FF406-2E8F-4920-9D2B-EF37F7030CB9}|GradeDB\\GradeDB.csproj|solutionrelative:gradedb\\forms\\dml.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328FF406-2E8F-4920-9D2B-EF37F7030CB9}|GradeDB\\GradeDB.csproj|D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\gradedb\\forms\\parameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328FF406-2E8F-4920-9D2B-EF37F7030CB9}|GradeDB\\GradeDB.csproj|solutionrelative:gradedb\\forms\\parameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328FF406-2E8F-4920-9D2B-EF37F7030CB9}|GradeDB\\GradeDB.csproj|D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\gradedb\\forms\\parameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{328FF406-2E8F-4920-9D2B-EF37F7030CB9}|GradeDB\\GradeDB.csproj|solutionrelative:gradedb\\forms\\parameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328FF406-2E8F-4920-9D2B-EF37F7030CB9}|GradeDB\\GradeDB.csproj|D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\gradedb\\classes\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328FF406-2E8F-4920-9D2B-EF37F7030CB9}|GradeDB\\GradeDB.csproj|solutionrelative:gradedb\\classes\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328FF406-2E8F-4920-9D2B-EF37F7030CB9}|GradeDB\\GradeDB.csproj|D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\gradedb\\forms\\parameter.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328FF406-2E8F-4920-9D2B-EF37F7030CB9}|GradeDB\\GradeDB.csproj|solutionrelative:gradedb\\forms\\parameter.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328FF406-2E8F-4920-9D2B-EF37F7030CB9}|GradeDB\\GradeDB.csproj|D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\gradedb\\forms\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328FF406-2E8F-4920-9D2B-EF37F7030CB9}|GradeDB\\GradeDB.csproj|solutionrelative:gradedb\\forms\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328FF406-2E8F-4920-9D2B-EF37F7030CB9}|GradeDB\\GradeDB.csproj|D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\gradedb\\forms\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{328FF406-2E8F-4920-9D2B-EF37F7030CB9}|GradeDB\\GradeDB.csproj|solutionrelative:gradedb\\forms\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328FF406-2E8F-4920-9D2B-EF37F7030CB9}|GradeDB\\GradeDB.csproj|D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\gradedb\\forms\\query.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328FF406-2E8F-4920-9D2B-EF37F7030CB9}|GradeDB\\GradeDB.csproj|solutionrelative:gradedb\\forms\\query.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\GradeDB\\Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "GradeDB\\Forms\\Form1.cs",
+              "ToolTip": "D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\GradeDB\\Forms\\Form1.cs",
+              "RelativeToolTip": "GradeDB\\Forms\\Form1.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAmwDoAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T16:12:26.682Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SvazBD.cs",
+              "DocumentMoniker": "D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\GradeDB\\Forms\\SvazBD.cs",
+              "RelativeDocumentMoniker": "GradeDB\\Forms\\SvazBD.cs",
+              "ToolTip": "D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\GradeDB\\Forms\\SvazBD.cs",
+              "RelativeToolTip": "GradeDB\\Forms\\SvazBD.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T13:35:32.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DML.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\GradeDB\\Forms\\DML.cs",
+              "RelativeDocumentMoniker": "GradeDB\\Forms\\DML.cs",
+              "ToolTip": "C:\\Users\\A\\source\\repos\\GradeDB\\GradeDB\\Forms\\DML.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T17:14:23.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DML.cs",
+              "DocumentMoniker": "D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\GradeDB\\Forms\\DML.cs",
+              "RelativeDocumentMoniker": "GradeDB\\Forms\\DML.cs",
+              "ToolTip": "D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\GradeDB\\Forms\\DML.cs",
+              "RelativeToolTip": "GradeDB\\Forms\\DML.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAB3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T17:14:51.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\GradeDB\\Forms\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "GradeDB\\Forms\\Form1.Designer.cs",
+              "ToolTip": "D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\GradeDB\\Forms\\Form1.Designer.cs",
+              "RelativeToolTip": "GradeDB\\Forms\\Form1.Designer.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAmwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T16:15:34.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "transform.xslt",
+              "DocumentMoniker": "D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\GradeDB\\bin\\Debug\\transform.xslt",
+              "RelativeDocumentMoniker": "GradeDB\\bin\\Debug\\transform.xslt",
+              "ToolTip": "D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\GradeDB\\bin\\Debug\\transform.xslt",
+              "RelativeToolTip": "GradeDB\\bin\\Debug\\transform.xslt",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAswC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003586|",
+              "WhenOpened": "2024-06-30T16:25:33.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\GradeDB\\Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "GradeDB\\Forms\\Form1.cs",
+              "ToolTip": "C:\\Users\\A\\source\\repos\\GradeDB\\GradeDB\\Forms\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T16:12:23.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "XML.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\GradeDB\\Forms\\XML.cs",
+              "RelativeDocumentMoniker": "GradeDB\\Forms\\XML.cs",
+              "ToolTip": "C:\\Users\\A\\source\\repos\\GradeDB\\GradeDB\\Forms\\XML.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T16:09:14.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "transform.xslt",
+              "DocumentMoniker": "D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\GradeDB\\transform.xslt",
+              "RelativeDocumentMoniker": "GradeDB\\transform.xslt",
+              "ToolTip": "D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\GradeDB\\transform.xslt",
+              "RelativeToolTip": "GradeDB\\transform.xslt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003586|",
+              "WhenOpened": "2024-06-30T16:13:17.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\GradeDB\\Program.cs",
+              "RelativeDocumentMoniker": "GradeDB\\Program.cs",
+              "ToolTip": "D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\GradeDB\\Program.cs",
+              "RelativeToolTip": "GradeDB\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T13:38:21.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SvazBD.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\GradeDB\\Forms\\SvazBD.cs",
+              "RelativeDocumentMoniker": "GradeDB\\Forms\\SvazBD.cs",
+              "ToolTip": "C:\\Users\\A\\source\\repos\\GradeDB\\GradeDB\\Forms\\SvazBD.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T13:31:26.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OneEntry.Designer.cs",
+              "DocumentMoniker": "D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\GradeDB\\Forms\\OneEntry.Designer.cs",
+              "RelativeDocumentMoniker": "GradeDB\\Forms\\OneEntry.Designer.cs",
+              "ToolTip": "D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\GradeDB\\Forms\\OneEntry.Designer.cs",
+              "RelativeToolTip": "GradeDB\\Forms\\OneEntry.Designer.cs",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAswNkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:20:12.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OneEntry.cs",
+              "DocumentMoniker": "D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\GradeDB\\Forms\\OneEntry.cs",
+              "RelativeDocumentMoniker": "GradeDB\\Forms\\OneEntry.cs",
+              "ToolTip": "D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\GradeDB\\Forms\\OneEntry.cs",
+              "RelativeToolTip": "GradeDB\\Forms\\OneEntry.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwDEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:20:08.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OneEntry.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\GradeDB\\Forms\\OneEntry.cs",
+              "RelativeDocumentMoniker": "GradeDB\\Forms\\OneEntry.cs",
+              "ToolTip": "C:\\Users\\A\\source\\repos\\GradeDB\\GradeDB\\Forms\\OneEntry.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:17:55.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SvazBD.Designer.cs",
+              "DocumentMoniker": "D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\GradeDB\\Forms\\SvazBD.Designer.cs",
+              "RelativeDocumentMoniker": "GradeDB\\Forms\\SvazBD.Designer.cs",
+              "ToolTip": "D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\GradeDB\\Forms\\SvazBD.Designer.cs",
+              "RelativeToolTip": "GradeDB\\Forms\\SvazBD.Designer.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T13:35:36.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserInterface.cs",
+              "DocumentMoniker": "D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\GradeDB\\Forms\\UserInterface.cs",
+              "RelativeDocumentMoniker": "GradeDB\\Forms\\UserInterface.cs",
+              "ToolTip": "D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\GradeDB\\Forms\\UserInterface.cs",
+              "RelativeToolTip": "GradeDB\\Forms\\UserInterface.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowEIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T14:59:41.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserInterface.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\GradeDB\\Forms\\UserInterface.cs",
+              "RelativeDocumentMoniker": "GradeDB\\Forms\\UserInterface.cs",
+              "ToolTip": "C:\\Users\\A\\source\\repos\\GradeDB\\GradeDB\\Forms\\UserInterface.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T14:59:18.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserInterface.Designer.cs",
+              "DocumentMoniker": "D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\GradeDB\\Forms\\UserInterface.Designer.cs",
+              "RelativeDocumentMoniker": "GradeDB\\Forms\\UserInterface.Designer.cs",
+              "ToolTip": "D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\GradeDB\\Forms\\UserInterface.Designer.cs",
+              "RelativeToolTip": "GradeDB\\Forms\\UserInterface.Designer.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAmwDYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T14:59:49.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SyncDatabase.cs",
+              "DocumentMoniker": "D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\GradeDB\\SyncDatabase.cs",
+              "RelativeDocumentMoniker": "GradeDB\\SyncDatabase.cs",
+              "ToolTip": "D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\GradeDB\\SyncDatabase.cs",
+              "RelativeToolTip": "GradeDB\\SyncDatabase.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T13:56:19.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SyncDatabase.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\GradeDB\\SyncDatabase.cs",
+              "RelativeDocumentMoniker": "GradeDB\\SyncDatabase.cs",
+              "ToolTip": "C:\\Users\\A\\source\\repos\\GradeDB\\GradeDB\\SyncDatabase.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T13:56:07.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SyncDatabase.Designer.cs",
+              "DocumentMoniker": "D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\GradeDB\\SyncDatabase.Designer.cs",
+              "RelativeDocumentMoniker": "GradeDB\\SyncDatabase.Designer.cs",
+              "ToolTip": "D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\GradeDB\\SyncDatabase.Designer.cs",
+              "RelativeToolTip": "GradeDB\\SyncDatabase.Designer.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAA8wDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T13:56:26.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DML.Designer.cs",
+              "DocumentMoniker": "D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\GradeDB\\Forms\\DML.Designer.cs",
+              "RelativeDocumentMoniker": "GradeDB\\Forms\\DML.Designer.cs",
+              "ToolTip": "D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\GradeDB\\Forms\\DML.Designer.cs",
+              "RelativeToolTip": "GradeDB\\Forms\\DML.Designer.cs",
+              "ViewState": "AQIAALcAAAAAAAAAAAAuwNcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T17:14:38.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Parameter.Designer.cs",
+              "DocumentMoniker": "D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\GradeDB\\Forms\\Parameter.Designer.cs",
+              "RelativeDocumentMoniker": "GradeDB\\Forms\\Parameter.Designer.cs",
+              "ToolTip": "D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\GradeDB\\Forms\\Parameter.Designer.cs",
+              "RelativeToolTip": "GradeDB\\Forms\\Parameter.Designer.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowEoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:55:19.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Parameter.cs",
+              "DocumentMoniker": "D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\GradeDB\\Forms\\Parameter.cs",
+              "RelativeDocumentMoniker": "GradeDB\\Forms\\Parameter.cs",
+              "ToolTip": "D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\GradeDB\\Forms\\Parameter.cs",
+              "RelativeToolTip": "GradeDB\\Forms\\Parameter.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:54:44.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Parameter.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\GradeDB\\Forms\\Parameter.cs",
+              "RelativeDocumentMoniker": "GradeDB\\Forms\\Parameter.cs",
+              "ToolTip": "C:\\Users\\A\\source\\repos\\GradeDB\\GradeDB\\Forms\\Parameter.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:54:19.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Database.cs",
+              "DocumentMoniker": "D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\GradeDB\\Classes\\Database.cs",
+              "RelativeDocumentMoniker": "GradeDB\\Classes\\Database.cs",
+              "ToolTip": "D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\GradeDB\\Classes\\Database.cs",
+              "RelativeToolTip": "GradeDB\\Classes\\Database.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T14:57:44.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Query.cs",
+              "DocumentMoniker": "D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\GradeDB\\Forms\\Query.cs",
+              "RelativeDocumentMoniker": "GradeDB\\Forms\\Query.cs",
+              "ToolTip": "D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\GradeDB\\Forms\\Query.cs",
+              "RelativeToolTip": "GradeDB\\Forms\\Query.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAiwAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T14:35:49.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Query.Designer.cs",
+              "DocumentMoniker": "D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\GradeDB\\Forms\\Query.Designer.cs",
+              "RelativeDocumentMoniker": "GradeDB\\Forms\\Query.Designer.cs",
+              "ToolTip": "D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\GradeDB\\Forms\\Query.Designer.cs",
+              "RelativeToolTip": "GradeDB\\Forms\\Query.Designer.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAowFAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T14:33:52.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Query.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\GradeDB\\GradeDB\\Forms\\Query.cs",
+              "RelativeDocumentMoniker": "GradeDB\\Forms\\Query.cs",
+              "ToolTip": "C:\\Users\\A\\source\\repos\\GradeDB\\GradeDB\\Forms\\Query.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T14:32:28.758Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -66,14 +66,15 @@ namespace GradeDB.Forms
             using (MySqlConnection con = new MySqlConnection(connectionString))
             {
                 con.Open();
-                string query = "INSERT INTO Marks (Student_idStudent, Subject_idSubject, Mark, Semester_idSemester) VALUES (@studentID, @subjectID, @mark, @semesterID)";
+                string query = "INSERT INTO Marks (Student_idStudent, Subject_idSubject, Mark, Semester_idSemester) " +
+                    "VALUES (@studentID, @subjectID, @mark, @semesterID); SELECT LAST_INSERT_ID();";
                 MySqlCommand cmd = new MySqlCommand(query, con);
                 cmd.Parameters.AddWithValue("@studentID", studentID);
                 cmd.Parameters.AddWithValue("@subjectID", subjectID);
                 cmd.Parameters.AddWithValue("@mark", mark);
                 cmd.Parameters.AddWithValue("@semesterID", semesterID);
-                cmd.ExecuteNonQuery();
-                MessageBox.Show("Оценка добавлена успешно!");
+                int newID = Convert.ToInt32(cmd.ExecuteScalar());
+                MessageBox.Show($"Оценка добавлена успешно! ID новой оценки: {newID}");
             }
         }
 
@@ -86,7 +87,7 @@ namespace GradeDB.Forms
                 MySqlCommand cmd = new MySqlCommand(query, con);
                 cmd.Parameters.AddWithValue("@markID", markID);
                 cmd.Parameters.AddWithValue("@mark", mark);
-                cmd.ExecuteNonQuery();
+                cmd.ExecuteScalar();
                 MessageBox.Show("Оценка обновлена успешно!");
             }
         }
@@ -99,7 +100,7 @@ namespace GradeDB.Forms
                 string query = "DELETE FROM Marks WHERE idMarks = @markID";
                 MySqlCommand cmd = new MySqlCommand(query, con);
                 cmd.Parameters.AddWithValue("@markID", markID);
-                cmd.ExecuteNonQuery();
+                cmd.ExecuteScalar();
                 MessageBox.Show("Оценка удалена успешно!");
             }
         }

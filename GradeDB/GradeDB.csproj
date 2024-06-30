@@ -99,11 +99,47 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Classes\Database.cs" />
+    <Compile Include="Forms\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\XML.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\XML.Designer.cs">
+      <DependentUpon>XML.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\OneEntry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\OneEntry.Designer.cs">
+      <DependentUpon>OneEntry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\UserInterface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\UserInterface.Designer.cs">
+      <DependentUpon>UserInterface.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SyncDatabase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SyncDatabase.Designer.cs">
+      <DependentUpon>SyncDatabase.cs</DependentUpon>
+    </Compile>
     <Compile Include="Forms\DML.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Forms\DML.Designer.cs">
       <DependentUpon>DML.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SvazBD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SvazBD.Designer.cs">
+      <DependentUpon>SvazBD.cs</DependentUpon>
     </Compile>
     <Compile Include="Forms\Parameter.cs">
       <SubType>Form</SubType>
@@ -137,6 +173,7 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <Content Include="transform.xslt" />
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

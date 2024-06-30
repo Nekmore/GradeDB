@@ -1,0 +1,62 @@
+<students>
+  <student>
+    <idStudent>1</idStudent>
+    <FIOstudenst>Ivanov Ivan Ivanovich</FIOstudenst>
+    <DateBirth>01.01.2000 0:00:00</DateBirth>
+    <Group_idGroup>1</Group_idGroup>
+  </student>
+  <student>
+    <idStudent>2</idStudent>
+    <FIOstudenst>Petrov Petr Petrovich</FIOstudenst>
+    <DateBirth>02.02.2001 0:00:00</DateBirth>
+    <Group_idGroup>2</Group_idGroup>
+  </student>
+  <student>
+    <idStudent>3</idStudent>
+    <FIOstudenst>Sidorov Sidr Sidorovich</FIOstudenst>
+    <DateBirth>03.03.2002 0:00:00</DateBirth>
+    <Group_idGroup>3</Group_idGroup>
+  </student>
+  <student>
+    <idStudent>4</idStudent>
+    <FIOstudenst>Petrov Ivan Alekseevich</FIOstudenst>
+    <DateBirth>06.06.2001 0:00:00</DateBirth>
+    <Group_idGroup>2</Group_idGroup>
+  </student>
+  <student>
+    <idStudent>5</idStudent>
+    <FIOstudenst>Sidorova Elena Sergeevna</FIOstudenst>
+    <DateBirth>07.07.2001 0:00:00</DateBirth>
+    <Group_idGroup>2</Group_idGroup>
+  </student>
+  <student>
+    <idStudent>9</idStudent>
+    <FIOstudenst>Smirnov Sergey Sergeevich</FIOstudenst>
+    <DateBirth>04.04.2000 0:00:00</DateBirth>
+    <Group_idGroup>1</Group_idGroup>
+  </student>
+  <student>
+    <idStudent>10</idStudent>
+    <FIOstudenst>Kuznetsova Anna Ivanovna</FIOstudenst>
+    <DateBirth>05.05.2001 0:00:00</DateBirth>
+    <Group_idGroup>2</Group_idGroup>
+  </student>
+  <student>
+    <idStudent>11</idStudent>
+    <FIOstudenst>Popov Andrey Andreevich</FIOstudenst>
+    <DateBirth>06.06.2002 0:00:00</DateBirth>
+    <Group_idGroup>3</Group_idGroup>
+  </student>
+  <student>
+    <idStudent>12</idStudent>
+    <FIOstudenst>Nikolaev Nikolay Nikolaevich</FIOstudenst>
+    <DateBirth>07.07.2000 0:00:00</DateBirth>
+    <Group_idGroup>1</Group_idGroup>
+  </student>
+  <student>
+    <idStudent>13</idStudent>
+    <FIOstudenst>Ivanova Irina Ivanovna</FIOstudenst>
+    <DateBirth>08.08.2000 0:00:00</DateBirth>
+    <Group_idGroup>1</Group_idGroup>
+  </student>
+</students>
